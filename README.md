@@ -41,3 +41,8 @@ The website will be redirected to the login page.
 #### Delete customer
 ![image](https://user-images.githubusercontent.com/93358835/232943931-09c4fc26-3a77-4ed8-8506-7316592761bc.png)
 ![image](https://user-images.githubusercontent.com/93358835/232944049-55f6b429-c67e-464f-bf86-f74701aa4059.png)
+## 2. Tecnology used
+<ul>
+    <li>React 18.2.0</li>    
+    <li>Antd 5.4.2</li>    
+</ul>
